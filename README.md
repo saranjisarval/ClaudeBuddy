@@ -45,7 +45,7 @@ A small macOS menu-bar companion for [Claude Code](https://claude.com/claude-cod
 ## Install
 
 ```bash
-git clone <REPO_URL> ClaudeBuddy
+git clone https://github.com/saranjisarval/ClaudeBuddy.git ClaudeBuddy
 cd ClaudeBuddy
 ./install.sh
 ```

@@ -4,7 +4,7 @@
 
 Please **do not** open a public issue for security problems.
 
-Report privately via GitHub's **"Report a vulnerability"** button on the repository's *Security* tab (private vulnerability reporting). Include steps to reproduce and the affected version/commit. You can expect an initial response within about 7 days.
+Report privately via GitHub: [Report a vulnerability](https://github.com/saranjisarval/ClaudeBuddy/security/advisories/new) (private vulnerability reporting). Include steps to reproduce and the affected version/commit. You can expect an initial response within about 7 days.
 
 ## Scope notes
 
