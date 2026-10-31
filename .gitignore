@@ -1,0 +1,60 @@
+# SwiftPM / Xcode build output
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj/xcuserdata/
+*.xcworkspace/xcuserdata/
+xcuserdata/
+*.xcuserstate
+*.moved-aside
+*.hmap
+*.ipa
+*.dSYM/
+*.dSYM.zip
+Packages/
+Package.resolved.bak
+
+# Built app bundles / release artifacts
+*.app
+*.zip
+*.dmg
+*.pkg
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# Editors / IDEs
+.idea/
+.vscode/
+*.swp
+*~
+
+# Secrets & local config -- never commit these
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.p8
+*.cer
+*.mobileprovision
+*.keychain
+*.keychain-db
+secrets.*
+credentials*.json
+config.local.*
+
+# Runtime data (lives in ~/.claude-buddy, but guard against copies)
+.claude-buddy/
+buddy.log
+*.log
+
+# Claude Code local state
+.claude/settings.local.json
+.claude/projects/
